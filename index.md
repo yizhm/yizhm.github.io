@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Resume
 
-You can use the [editor on GitHub](https://github.com/yizhm/yizhm.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I received my Ph.D. degree from National University of Defense Technology (NUDT) in 2021.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research Interests
 
-### Markdown
+Interested in operating systems, multi-core technologies, concurrency and synchronization technologies.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
 
-```markdown
-Syntax highlighted code block
+1. Zhengming Yi, Yiping Yao, Kai Chen. A Universal Construction to implement Concurrent Data Structure for NUMA-muticore. 50th International Conference on Parallel Processing (ICPP ’21)
+1. Zhengming Yi, Yiping Yao, Kai Chen. FTSD: a fissionable lock for multicores. Proceedings of the 12th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys’21): 123-130 
+1. Zhengming Yi, Yiping Yao, A stealing mechanism for delegation methods. The Journal of Supercomputing. 77(10): 10827-10849 (2021)
+1. Zhengming Yi, Yiping Yao. A scalable lock on NUMA multicore. Concurrency and Computation: Practice and Experience. 32(24) (2020) 
+1. Zhengming Yi, Fei Chen, Yiping Yao. A barrier optimization framework for NUMA multi-core system. Concurrency and Computation: Practice and Experience. 32(5) (2020)
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yizhm/yizhm.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+yizhengming (at) 163 (dot) com
